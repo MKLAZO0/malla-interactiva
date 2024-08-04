@@ -1,9 +1,9 @@
 {
-    "DMAE":["#3c84f0","Departamento de matematicas"],
-    "QYFA":["#24e05c","Departamento de Quimica y Farmacia"],
-    "DBIO":["#127805","Departamento de Biologia"],
-    "DQUI":["#f0933c","Departamento de Quimica"],
-    "BCSA":["#3cf0ed","Bachillerato en ciencias de la salud"]
-    "DMOR":["#0e865e","Departamento de morfologia"]
-    "FORMINT":["#068696","Formacion integral"]
+"DMAE":["#3c84f0","Departamento de matematicas"],
+"QYFA":["#24e05c","Departamento de Quimica y Farmacia"],
+"DBIO":["#127805","Departamento de Biologia"],
+"DQUI":["#f0933c","Departamento de Quimica"],
+"BCSA":["#3cf0ed","Bachillerato en ciencias de la salud"],
+"DMOR":["#0e865e","Departamento de morfologia"],
+"FORMINT":["#068696","Formacion integral"]
 }
