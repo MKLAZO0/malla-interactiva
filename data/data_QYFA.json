@@ -31,7 +31,7 @@
 		["Fisiopatologia","QYFA-1004",0,6,"QYFA",["DBIO-1075"],""],
 		["Fisicoquimica","DQUI-1029",0,5,"DQUI",["BCSA-1006","DMAE-C001","DQUI-1003","DQUI-1022"],""],
 		["Laboratorio de Fisicoquimica","DQUI-1030",0,3,"DQUI",["BCSA-1006","DMAE-C001","DQUI-1003","DQUI-1022"],""],
-		["Analisis quimico instrumental","DQUI-1027",0,3,"DQUI",["DQUI-1025","DQUI-1026"],""],
+		["Analisis quimico instrumental","DQUI-1027",0,3,"DQUI",["DQUI-1025","DQUI-1025","}QUI-1026"],""],
 		["Laboratorio de Analisis quimico instrumental","DQUI-1028",0,3,"DQUI",["DQUI-1025,"DQUI-1026"],""],
 		["Farmacognosia y fitoterapia","QYFA-1005",0,5,"QYFA",["DQUI-1020","DQUI-1021","DBIO-1069"],""],
 		["Microbiologia","DBIO-1073",0,5,"DBIO",["DBIO-1069","DQUI-1018","DQUI-1019"],""],
@@ -83,6 +83,8 @@
 	"s12": [
 		["Internado de eleccion","QYFA-1033",0,18,"QYFA",["QYFA-1027"],""],
 		["Seminario de Titulo","QYFA-1032",0,6,"QYFA",["QYFA-1027"],""]
+	]
+
 	]
 }
   
